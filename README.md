@@ -31,7 +31,7 @@ go get github.com/hdt3213/delayqueue
 package main
 
 import (
-	"github.com/go-redis/redis/v8"
+	"github.com/go-redis/redis/v9"
 	"github.com/hdt3213/delayqueue"
 	"strconv"
 	"time"
